@@ -1,0 +1,70 @@
+[
+
+    {
+      "code": "FC01",
+      "title": "Functions in C",
+      "description": "Contains statements that specify the computing operations to be done. a function is called by naming it, followed by a parenthesized list of arguments.",
+      "image_url": "",
+      "reading_time": "1",
+      "additional_info_type": "video",
+      "additional_info_link": "https://www.youtube.com/watch?v=3lqgdqoY83o",
+      "additional_info_deck_code": "",
+      "additional_info_display": 1
+    },
+    {
+      "code": "FC01",
+      "title": "Functions in C",
+      "description": "Contains statements that specify the computing operations to be done. a function is called by naming it, followed by a parenthesized list of arguments.",
+      "image_url": "",
+      "reading_time": "1",
+      "additional_info_type": "video",
+      "additional_info_link": "https://www.youtube.com/watch?v=3lqgdqoY83o",
+      "additional_info_deck_code": "",
+      "additional_info_display": 1
+    },
+    {
+      "code": "FC01",
+      "title": "Functions in C",
+      "description": "Contains statements that specify the computing operations to be done. a function is called by naming it, followed by a parenthesized list of arguments.",
+      "image_url": "",
+      "reading_time": "1",
+      "additional_info_type": "video",
+      "additional_info_link": "https://www.youtube.com/watch?v=3lqgdqoY83o",
+      "additional_info_deck_code": "",
+      "additional_info_display": 1
+    },
+    {
+      "code": "FC01",
+      "title": "Functions in C++",
+      "description": "Contains statements that specify the computing operations to be done. a function is called by naming it, followed by a parenthesized list of arguments.",
+      "image_url": "",
+      "reading_time": "1",
+      "additional_info_type": "video",
+      "additional_info_link": "https://www.youtube.com/watch?v=3lqgdqoY83o",
+      "additional_info_deck_code": "",
+      "additional_info_display": 1
+    },
+    {
+      "code": "FC01",
+      "title": "Functions in Java",
+      "description": "Contains statements that specify the computing operations to be done. a function is called by naming it, followed by a parenthesized list of arguments.",
+      "image_url": "",
+      "reading_time": "1",
+      "additional_info_type": "video",
+      "additional_info_link": "https://www.youtube.com/watch?v=3lqgdqoY83o",
+      "additional_info_deck_code": "",
+      "additional_info_display": 1
+    },
+    {
+      "code": "FC01",
+      "title": "Functions in Python",
+      "description": "Contains statements that specify the computing operations to be done. a function is called by naming it, followed by a parenthesized list of arguments.",
+      "image_url": "",
+      "reading_time": "1",
+      "additional_info_type": "video",
+      "additional_info_link": "https://www.youtube.com/watch?v=3lqgdqoY83o",
+      "additional_info_deck_code": "",
+      "additional_info_display": 1
+    }
+
+  ]

@@ -1,0 +1,20 @@
+[
+  {
+    "question_of_the_day": {
+      "name": " If “*” is called “+”, “/” is called “*”, “-” is called  “/”, “+” is called “-”. 40/20 – 5 * 10 + 5 = ?",
+      "question_image": "",
+      "options": [
+        "170",
+        "160",
+        "150",
+        "165"
+      ],
+      "answers": 4,
+      "solution": "",
+      "hint": "",
+      "hint_image": "",
+      "question_type": "Logical reasoning",
+      "level": 2
+    }
+  }
+]

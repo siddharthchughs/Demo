@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|center_horizontal"
+        android:background="@color/bg_white"
+        tools:context=".ui.WrongAnswerFragment">
+
+    <ImageView
+            android:id="@+id/imgWrong"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/wrong_answer"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+            android:id="@+id/tv_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/wrong_output"
+            android:textColor="@color/header_text_color"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@id/imgWrong"
+            app:layout_constraintStart_toStartOf="@id/imgWrong"
+            app:layout_constraintTop_toBottomOf="@id/imgWrong" />
+
+    <TextView
+            android:id="@+id/tv_Correct_output"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/correctoutputlabel"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="@id/tv_header"
+            app:layout_constraintStart_toStartOf="@id/tv_header"
+            app:layout_constraintTop_toBottomOf="@id/tv_header"
+            tools:text="@string/correctoutputlabel" />
+
+    <TextView
+            android:id="@+id/tv_Output"
+            android:layout_width="150dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorPrimary"
+            android:gravity="center"
+            android:text="165"
+            android:textAppearance="@android:style/TextAppearance.Medium.Inverse"
+            android:textColor="@color/bg_white"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@id/tv_Correct_output"
+            app:layout_constraintStart_toStartOf="@id/tv_Correct_output"
+            app:layout_constraintTop_toBottomOf="@id/tv_Correct_output" />
+
+    <TextView
+            android:id="@+id/tv_ViewExplaination"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="@string/view_explaination"
+            android:textAppearance="@android:style/TextAppearance.Medium.Inverse"
+            android:textColor="@color/subtitle_text_color"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@id/tv_Output"
+            app:layout_constraintStart_toStartOf="@id/tv_Output"
+            app:layout_constraintTop_toBottomOf="@id/tv_Output"
+            tools:text="@string/view_explaination" />
+
+    <TextView
+            android:id="@+id/tv_CheckforMore"
+            style="@style/TextAppearance.AppCompat.Inverse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="@id/tv_ViewExplaination"
+            app:layout_constraintStart_toStartOf="@id/tv_ViewExplaination"
+            app:layout_constraintTop_toBottomOf="@id/tv_ViewExplaination"
+            tools:text="@string/check_for_more" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

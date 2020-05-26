@@ -1,0 +1,1 @@
+class Dayquestion : ArrayList<DayquestionItem>()

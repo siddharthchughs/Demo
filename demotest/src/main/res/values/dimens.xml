@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="duration_one">1</dimen>
+    <dimen name="duration_zero">0</dimen>
+
+</resources>

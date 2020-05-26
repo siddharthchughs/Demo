@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DemoTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="blank_fragment">Hello blank fragment</string>
+    <string name="wrong_output">Wrong Answer</string>
+    <string name="correctoutputlabel">The correct answers is</string>
+    <string name="earnedlabel">You have earned</string>
+    <string name="check_for_more">Check back tomorrow for more exciting questions</string>
+    <integer name="card_flip_time_full">800</integer>
+    <integer name="card_flip_time_half">0</integer>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="correctanswerlabel">Correct Answer</string>
+    <string name="view_explaination">View the explaination</string>
+    <string name="whattype">What type of programing language is Python</string>
+    <string name="view_example">View Examples</string>
+    <string name="contentHeading">Card Heading</string>
+    <string name="contentdescription">Card Description</string>
+    <string name="flashcards_label">Flashcards</string>
+
+</resources>
